@@ -1,4 +1,4 @@
-# ICPC-2018-Problems
+# ICPC 2018 Problems
 
 These are all of my C++ solutions for the Division 2 ACM ICPC Pacific Northwest 2018 competition.
 
